@@ -96,7 +96,7 @@
     .content2_inner>article:nth-of-type(5)>a>div>h3>img{width: 250px; height: 250px;}
     
     /* article-6 */
-    .content2_inner>article:nth-of-type(6){position: absolute; right: -150px; bottom: 55px;}
+    .content2_inner>article:nth-of-type(6){position: absolute; right: -150px; bottom: 135px;}
     .content2_inner>article:nth-of-type(6)>a>div>h3>img{width: 500px; height: 500px;}
     
     /* article-7 */

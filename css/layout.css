@@ -1,5 +1,5 @@
 /* common */
-body{font-size: 14px; letter-spacing: -1px; }
+body{font-size: 14px; letter-spacing: -1px; overflow-x: hidden;}
 a{text-decoration: none;}
 
 /* MObile 크기 0~768 */
